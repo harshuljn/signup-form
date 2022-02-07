@@ -147,4 +147,17 @@ button[type="submit"] {
 		flex-direction: column;
 		height: auto;
 	}
+
+	#signup-form {
+		width: 100%;
+	}
+
+	#signup-form > div {
+		min-width: 250px;
+		width: 40%;
+	}
+
+	#signup-form input {
+		width: 100%;
+	}
 }
